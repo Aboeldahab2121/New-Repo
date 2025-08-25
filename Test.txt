@@ -1,3 +1,7 @@
 addition 1 
 Addition 2
+<<<<<<< HEAD
+Addition 3
+=======
 addition 3
+>>>>>>> cea1165063b00da20627134d927588b2ab0acde5
